@@ -31,7 +31,7 @@ const Offer = () => {
               </p>
               <div className="inline-block relative">
                 <p className="text-6xl md:text-7xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-primary to-gold">
-                  R$97
+                  R$197
                 </p>
                 <div className="absolute -inset-2 bg-gradient-to-r from-primary/20 to-gold/20 blur-2xl -z-10" />
               </div>
